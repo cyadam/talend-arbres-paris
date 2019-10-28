@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_raF6YPl9Eemya-RyQ-651Q" comment="connectionComment" label="connectionLabel" dataPackage="_raF6Yfl9Eemya-RyQ-651Q"/>
+  <TalendMetadata:GenericPackage xmi:id="_raF6Yfl9Eemya-RyQ-651Q" dataManager="_raF6YPl9Eemya-RyQ-651Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_raF6Yvl9Eemya-RyQ-651Q" id="_2fVJcPl9Eemya-RyQ-651Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raF6Y_l9Eemya-RyQ-651Q" name="IDBASE" id="5558" label="IDBASE" length="-1" precision="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvkPl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvkfl9Eemya-RyQ-651Q" name="TYPEEMPLACEMENT" id="5559" label="TYPEEMPLACEMENT" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvkvl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvk_l9Eemya-RyQ-651Q" name="DOMANIALITE" id="5560" label="DOMANIALITE" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvlPl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvlfl9Eemya-RyQ-651Q" name="ARRONDISSEMENT" id="5561" label="ARRONDISSEMENT" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvlvl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvl_l9Eemya-RyQ-651Q" name="COMPLEMENTADRESSE" id="5562" label="COMPLEMENTADRESSE" length="54" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvmPl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvmfl9Eemya-RyQ-651Q" name="NUMERO" id="5563" label="NUMERO" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvmvl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvm_l9Eemya-RyQ-651Q" name="LIEU___ADRESSE" id="5564" label="LIEU___ADRESSE" length="72" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvnPl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvnfl9Eemya-RyQ-651Q" name="IDEMPLACEMENT" id="5565" label="IDEMPLACEMENT" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvnvl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvn_l9Eemya-RyQ-651Q" name="LIBELLEFRANCAIS" id="5566" label="LIBELLEFRANCAIS" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvoPl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvofl9Eemya-RyQ-651Q" name="GENRE" id="5567" label="GENRE" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvovl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvo_l9Eemya-RyQ-651Q" name="ESPECE" id="5568" label="ESPECE" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvpPl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvpfl9Eemya-RyQ-651Q" name="VARIETEOUCULTIVAR" id="5569" label="VARIETEOUCULTIVAR" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvpvl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvp_l9Eemya-RyQ-651Q" name="CIRCONFERENCEENCM" id="5570" label="CIRCONFERENCEENCM" length="5" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvqPl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvqfl9Eemya-RyQ-651Q" name="HAUTEUR__m_" id="5571" label="HAUTEUR__m_" length="5" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvqvl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvq_l9Eemya-RyQ-651Q" name="STADEDEVELOPPEMENT" id="5572" label="STADEDEVELOPPEMENT" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvrPl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvrfl9Eemya-RyQ-651Q" name="REMARQUABLE" id="5573" label="REMARQUABLE" length="1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvrvl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvr_l9Eemya-RyQ-651Q" name="PEPINIERE" id="5575" label="PEPINIERE" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvsPl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvsfl9Eemya-RyQ-651Q" name="DATEPLANTATION" id="5576" label="DATEPLANTATION" length="25" talendType="id_Date" pattern="&quot;yyyy-MM-dd&quot;">
+        <initialValue xmi:id="_raHvsvl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvs_l9Eemya-RyQ-651Q" name="OBJECTID" id="5577" label="OBJECTID" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvtPl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_raHvtfl9Eemya-RyQ-651Q" name="geo_point_2d" id="5574" label="geo_point_2d" length="27" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_raHvtvl9Eemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_dbRnYPmDEemya-RyQ-651Q" name="AGE" label="AGE" length="-1" talendType="id_Float"/>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

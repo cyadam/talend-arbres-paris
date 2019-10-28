@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_Ldv2YPl5Eemya-RyQ-651Q" name="arbres" dataPackage="_LdzgwPl5Eemya-RyQ-651Q" Server="Localhost 127.0.0.1" FilePath="C:/Users/adam_/daena/TALEND_ARBRES_PARIS/temp/arbres.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" EscapeChar="&quot;\&quot;&quot;" TextEnclosure="&quot;\&quot;&quot;" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_LdzgwPl5Eemya-RyQ-651Q" name="default" dataManager="_Ldv2YPl5Eemya-RyQ-651Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_Ld0H0Pl5Eemya-RyQ-651Q" id="_9XMLYPl4Eemya-RyQ-651Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H0fl5Eemya-RyQ-651Q" label="IDBASE" length="-1" precision="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H0vl5Eemya-RyQ-651Q" label="TYPEEMPLACEMENT" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H0_l5Eemya-RyQ-651Q" label="DOMANIALITE" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H1Pl5Eemya-RyQ-651Q" label="ARRONDISSEMENT" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H1fl5Eemya-RyQ-651Q" label="COMPLEMENTADRESSE" length="54" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H1vl5Eemya-RyQ-651Q" label="NUMERO" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H1_l5Eemya-RyQ-651Q" label="LIEU___ADRESSE" length="72" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H2Pl5Eemya-RyQ-651Q" label="IDEMPLACEMENT" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H2fl5Eemya-RyQ-651Q" label="LIBELLEFRANCAIS" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H2vl5Eemya-RyQ-651Q" label="GENRE" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H2_l5Eemya-RyQ-651Q" label="ESPECE" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H3Pl5Eemya-RyQ-651Q" label="VARIETEOUCULTIVAR" length="20" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H3fl5Eemya-RyQ-651Q" label="CIRCONFERENCEENCM" length="5" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H3vl5Eemya-RyQ-651Q" label="HAUTEUR__m_" length="5" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H3_l5Eemya-RyQ-651Q" label="STADEDEVELOPPEMENT" length="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H4Pl5Eemya-RyQ-651Q" label="REMARQUABLE" length="1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_Ld0H4fl5Eemya-RyQ-651Q" label="geo_point_2d" length="27" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

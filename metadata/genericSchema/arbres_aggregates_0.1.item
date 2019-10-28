@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_kRe_UvmFEemya-RyQ-651Q" comment="connectionComment" label="connectionLabel" dataPackage="_kRe_U_mFEemya-RyQ-651Q"/>
+  <TalendMetadata:GenericPackage xmi:id="_kRe_U_mFEemya-RyQ-651Q" dataManager="_kRe_UvmFEemya-RyQ-651Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_kRe_VPmFEemya-RyQ-651Q" id="_EnudUPnHEems4_yZCkQmfw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_kRe_VfmFEemya-RyQ-651Q" name="ESPECE" id="8200" label="ESPECE" length="18" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_kRe_VvmFEemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_kRe_V_mFEemya-RyQ-651Q" name="CIRCONFERENCEENCM_AVG" id="8202" label="CIRCONFERENCEENCM_AVG" length="5" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_kRe_WPmFEemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_kRe_WfmFEemya-RyQ-651Q" name="HAUTEUR_M_AVG" id="8203" label="HAUTEUR_M_AVG" length="5" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;">
+        <initialValue xmi:id="_kRe_WvmFEemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_kRe_W_mFEemya-RyQ-651Q" name="COUNT" id="8713" label="COUNT" length="-1" precision="-1" sourceType="" talendType="id_Integer">
+        <initialValue xmi:id="_kRe_XPmFEemya-RyQ-651Q"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_kRe_XfmFEemya-RyQ-651Q" name="AGE_MAX" id="8714" label="AGE_MAX" length="-1" precision="-1" sourceType="" talendType="id_Float">
+        <initialValue xmi:id="_kRe_XvmFEemya-RyQ-651Q"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_k5f4APl5Eemya-RyQ-651Q" name="arbres_remarquables" dataPackage="_k5f4Afl5Eemya-RyQ-651Q" Server="Localhost 127.0.0.1" FilePath="C:/Users/adam_/daena/TALEND_ARBRES_PARIS/temp/arbres-remarquables.csv" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" EscapeChar="&quot;\&quot;&quot;" TextEnclosure="&quot;\&quot;&quot;" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_k5f4Afl5Eemya-RyQ-651Q" name="default" dataManager="_k5f4APl5Eemya-RyQ-651Q">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_k5f4Avl5Eemya-RyQ-651Q" id="_NLxecPl5Eemya-RyQ-651Q" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5f4A_l5Eemya-RyQ-651Q" label="Geo_point" length="27" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5f4BPl5Eemya-RyQ-651Q" label="GENRE" length="12" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5f4Bfl5Eemya-RyQ-651Q" label="ESPECE" length="25" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5f4Bvl5Eemya-RyQ-651Q" label="ADRESSE" length="68" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5f4B_l5Eemya-RyQ-651Q" label="IDBASE" length="-1" precision="2" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5f4CPl5Eemya-RyQ-651Q" label="TYPEEMPLACEMENT" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5f4Cfl5Eemya-RyQ-651Q" label="DOMANIALITE" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5f4Cvl5Eemya-RyQ-651Q" label="ARRONDISSEMENT" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfEPl5Eemya-RyQ-651Q" label="COMPLEMENTADRESSE" length="21" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfEfl5Eemya-RyQ-651Q" label="NUMERO" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfEvl5Eemya-RyQ-651Q" label="IDEMPLACEMENT" length="17" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfE_l5Eemya-RyQ-651Q" label="CIRCONFERENCE_EN_CM" length="5" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfFPl5Eemya-RyQ-651Q" label="HAUTEUR_EN_M" length="4" precision="2" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfFfl5Eemya-RyQ-651Q" label="STADEDEVELOPPEMENT" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfFvl5Eemya-RyQ-651Q" label="PEPINIERE" length="14" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfF_l5Eemya-RyQ-651Q" label="VARIETE_OU_CULTIVAR" length="15" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfGPl5Eemya-RyQ-651Q" label="DATEPLANTATION" length="25" talendType="id_Date" pattern="&quot;yyyy-MM-dd'T'HH:mm:ssXXX&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfGfl5Eemya-RyQ-651Q" label="REMARQUABLE" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfGvl5Eemya-RyQ-651Q" label="OBJECTID" length="-1" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_k5gfG_l5Eemya-RyQ-651Q" label="LIBELLEFRANCAIS" length="24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

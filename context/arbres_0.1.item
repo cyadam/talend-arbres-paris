@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_1GcyUPl6Eemya-RyQ-651Q" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_1HHgsPl6Eemya-RyQ-651Q" comment="" name="file_remarq" prompt="file_remarq?" promptNeeded="false" type="id_String" value="arbresremarquablesparis.csv"/>
+  <contextParameter xmi:id="_1HHgsfl6Eemya-RyQ-651Q" comment="" name="file_arbres" prompt="file_arbres?" promptNeeded="false" type="id_String" value="les-arbres.csv"/>
+  <contextParameter xmi:id="_1HHgsvl6Eemya-RyQ-651Q" comment="" name="file_store" prompt="file_store?" promptNeeded="false" type="id_Directory" value="/tmp/"/>
+  <contextParameter xmi:id="_HNkd0Pl9Eemya-RyQ-651Q" comment="" name="file_merge" prompt="file_merge?" promptNeeded="false" type="id_String" value="arbres_merged.csv"/>
+  <contextParameter xmi:id="_OmEOAPmAEemya-RyQ-651Q" comment="" name="file_aggreg" prompt="file_aggreg?" promptNeeded="false" type="id_String" value="arbres_aggregated.csv"/>
+  <contextParameter xmi:id="_z7qWMfmmEems4_yZCkQmfw" comment="" name="file" prompt="file?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
